@@ -1,0 +1,26 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Animations/SkillAnimations.png","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Animations/SkillAnimations.xnb","TextureProcessor","Texture2DContent",944903,16777301,0.7588744
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Backgrounds/BattleBackground.png","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Backgrounds/BattleBackground.xnb","TextureProcessor","Texture2DContent",1044030,8294485,0.2394597
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Backgrounds/BG1.png","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Backgrounds/BG1.xnb","TextureProcessor","Texture2DContent",1503687,8294485,0.2694716
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Backgrounds/BG2.png","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Backgrounds/BG2.xnb","TextureProcessor","Texture2DContent",1334254,8294485,0.259041
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Backgrounds/BG3.png","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Backgrounds/BG3.xnb","TextureProcessor","Texture2DContent",1153819,8294485,0.2766935
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Backgrounds/WalkMap1.png","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Backgrounds/WalkMap1.xnb","TextureProcessor","Texture2DContent",46429,8294485,0.2065689
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Backgrounds/WalkMap2.png","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Backgrounds/WalkMap2.xnb","TextureProcessor","Texture2DContent",62266,8294485,0.20656
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Backgrounds/WalkMap3.png","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Backgrounds/WalkMap3.xnb","TextureProcessor","Texture2DContent",49557,8294485,0.206203
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Fonts/Bold.spritefont","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Fonts/Bold.xnb","FontDescriptionProcessor","SpriteFontContent",2087,21535,0.1554212
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Fonts/File.spritefont","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Fonts/File.xnb","FontDescriptionProcessor","SpriteFontContent",2085,21535,0.0296685
+"/mnt/sdb/Workspaces/C#/WinApp/Content/HUD/HUDAtlas.png","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/HUD/HUDAtlas.xnb","TextureProcessor","Texture2DContent",889545,16777301,0.7689639
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Mobs/FireMonsters.png","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Mobs/FireMonsters.xnb","TextureProcessor","Texture2DContent",1761549,16777301,0.4783196
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Mobs/NatureMonsters.png","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Mobs/NatureMonsters.xnb","TextureProcessor","Texture2DContent",1964524,16777301,0.4508506
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Mobs/WaterMonsters.png","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Mobs/WaterMonsters.xnb","TextureProcessor","Texture2DContent",1770767,16777301,0.4612353
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Mobs/WindMonsters.png","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Mobs/WindMonsters.xnb","TextureProcessor","Texture2DContent",1859426,16777301,0.454359
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Objects/Atlas.png","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Objects/Atlas.xnb","TextureProcessor","Texture2DContent",2290796,16777301,0.4796443
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Objects/AtlasHovered.png","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Objects/AtlasHovered.xnb","TextureProcessor","Texture2DContent",2400740,16777301,0.476979
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Songs/Battle.ogg","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Songs/Battle.xnb","SongProcessor","SongContent",3145044,124,3.6018686
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Songs/Gameplay.mp3","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Songs/Gameplay.xnb","SongProcessor","SongContent",4875342,126,2.3964705
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Sounds/FireBall.ogg","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Sounds/FireBall.xnb","SoundEffectProcessor","SoundEffectContent",18280,335721,0.0277042
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Sounds/Flame.ogg","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Sounds/Flame.xnb","SoundEffectProcessor","SoundEffectContent",20754,282473,0.0231593
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Sounds/Physical.ogg","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Sounds/Physical.xnb","SoundEffectProcessor","SoundEffectContent",10425,358761,0.025843
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Sounds/Sharpen.ogg","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Sounds/Sharpen.xnb","SoundEffectProcessor","SoundEffectContent",24250,283497,0.0229202
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Sounds/Tornado.ogg","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Sounds/Tornado.xnb","SoundEffectProcessor","SoundEffectContent",25465,270441,0.1936006
+"/mnt/sdb/Workspaces/C#/WinApp/Content/Sounds/Weaken.ogg","/mnt/sdb/Workspaces/C#/WinApp/Content/bin/DesktopGL/Content/Sounds/Weaken.xnb","SoundEffectProcessor","SoundEffectContent",24532,371049,0.0524964

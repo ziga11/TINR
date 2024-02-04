@@ -1,0 +1,8 @@
+﻿{
+  "General": 1.0,
+  "Battle": 0.6,
+  "Skill": 1.0,
+  "NotMutedAll": true,
+  "NotMutedBattle": true,
+  "NotMutedSkill": true
+}

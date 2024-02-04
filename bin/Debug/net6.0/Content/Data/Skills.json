@@ -1,0 +1,153 @@
+﻿{
+  "Weaken": {
+    "Name": "Weaken",
+    "Element": "Neutral",
+    "SkillTex": {
+      "X": 0,
+      "Y": 0,
+      "Width": 128,
+      "Height": 256,
+      "Type": 1,
+      "Count": 10,
+      "NextItr": {
+        "X": 256,
+        "Y": 0
+      }
+    },
+    "SkillStats": {
+      "Att": 0,
+      "AttUp": 0,
+      "AttDown": 15,
+      "DefUp": 0,
+      "DefDown": 10,
+      "EvsUp": 0,
+      "EvsDown": 0
+    }
+  },
+  "Sharpen": {
+    "Name": "Sharpen",
+    "Element": "Neutral",
+    "SkillTex": {
+      "X": 0,
+      "Y": 256,
+      "Width": 256,
+      "Height": 256,
+      "Type": 2,
+      "Count": 7,
+      "NextItr": {
+        "X": 256,
+        "Y": 0
+      }
+    },
+    "SkillStats": {
+      "Att": 0,
+      "AttUp": 20,
+      "AttDown": 0,
+      "DefUp": 0,
+      "DefDown": 0,
+      "EvsUp": 0,
+      "EvsDown": 0
+    }
+  },
+  "Flame": {
+    "Name": "Flame",
+    "Element": "Fire",
+    "SkillTex": {
+      "X": 0,
+      "Y": 1792,
+      "Width": 256,
+      "Height": 128,
+      "Type": 0,
+      "Count": 7,
+      "NextItr": {
+        "X": 256,
+        "Y": 0
+      }
+    },
+    "SkillStats": {
+      "Att": 15,
+      "AttUp": 0,
+      "AttDown": 0,
+      "DefUp": 0,
+      "DefDown": 0,
+      "EvsUp": 0,
+      "EvsDown": 0
+    }
+  },
+  "FireBall": {
+    "Name": "FireBall",
+    "Element": "Fire",
+    "SkillTex": {
+      "X": 0,
+      "Y": 1920,
+      "Width": 256,
+      "Height": 128,
+      "Type": 0,
+      "Count": 7,
+      "NextItr": {
+        "X": 256,
+        "Y": 0
+      }
+    },
+    "SkillStats": {
+      "Att": 15,
+      "AttUp": 0,
+      "AttDown": 0,
+      "DefUp": 0,
+      "DefDown": 0,
+      "EvsUp": 0,
+      "EvsDown": 0
+    }
+  },
+  "Physical": {
+    "Name": "Physical",
+    "Element": "Neutral",
+    "SkillTex": {
+      "X": 0,
+      "Y": 0,
+      "Width": 128,
+      "Height": 256,
+      "Type": 1,
+      "Count": 10,
+      "NextItr": {
+        "X": 128,
+        "Y": 0
+      }
+    },
+    "SkillStats": {
+      "Att": 15,
+      "AttUp": 0,
+      "AttDown": 0,
+      "DefUp": 0,
+      "DefDown": 0,
+      "EvsUp": 0,
+      "EvsDown": 0
+    }
+  },
+  "Tornado": {
+    "Name": "Tornado",
+    "Element": "Wind",
+    "SkillTex": {
+      "X": 0,
+      "Y": 512,
+      "Width": 256,
+      "Height": 256,
+      "Type": 1,
+      "Count": 5,
+      "NextItr": {
+        "X": 256,
+        "Y": 0
+      }
+    },
+    "SkillStats": {
+      "Att": 20,
+      "AttUp": 0,
+      "AttDown": 0,
+      "DefUp": 0,
+      "DefDown": 0,
+      "EvsUp": 0,
+      "EvsDown": 0
+    }
+  }
+}
+

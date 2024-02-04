@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Workspaces/C#/WinApp/Content/Animations/SkillAnimations.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Backgrounds/BattleBackground.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Backgrounds/BG1.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Backgrounds/BG2.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Backgrounds/BG3.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Backgrounds/WalkMap1.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Backgrounds/WalkMap2.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Backgrounds/WalkMap3.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Fonts/Bold.spritefont</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Fonts/File.spritefont</File>
+    <File>D:/Workspaces/C#/WinApp/Content/HUD/HUDAtlas.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Mobs/FireMonsters.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Mobs/NatureMonsters.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Mobs/WaterMonsters.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Mobs/WindMonsters.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Objects/Atlas.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Objects/AtlasHovered.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Songs/Battle.ogg</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Songs/Gameplay.mp3</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Sounds/FireBall.ogg</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Sounds/Flame.ogg</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Sounds/Physical.ogg</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Sounds/Sharpen.ogg</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Sounds/Weaken.ogg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

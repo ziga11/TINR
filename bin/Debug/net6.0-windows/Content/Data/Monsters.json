@@ -1,0 +1,358 @@
+﻿{
+  "Fire": {
+    "FirePuppy": {
+      "Positions": {
+        "0": {
+          "X": 0,
+          "Y": 0
+        },
+        "1": {
+          "X": 384,
+          "Y": 0
+        },
+        "2": {
+          "X": 768,
+          "Y": 0
+        },
+        "3": {
+          "X": 1152,
+          "Y": 0
+        }
+      },
+      "Skills": {
+        "0": "Flame",
+        "5": "Physical",
+        "10": "Weaken",
+        "15": "FireBall",
+        "20": "Sharpen",
+        "25": "Flame",
+        "30": "Weaken"
+      }
+    },
+    "FlameUnicorn": {
+      "Positions": {
+        "0": {
+          "X": 0,
+          "Y": 384
+        },
+        "1": {
+          "X": 384,
+          "Y": 384
+        },
+        "2": {
+          "X": 768,
+          "Y": 384
+        },
+        "3": {
+          "X": 1152,
+          "Y": 384
+        }
+      },
+      "Skills": {
+        "0": "Flame",
+        "5": "Physical",
+        "10": "Weaken",
+        "15": "FireBall",
+        "20": "Sharpen",
+        "25": "Flame",
+        "30": "Weaken"
+      }
+    },
+    "Blazer": {
+      "Positions": {
+        "0": {
+          "X": 0,
+          "Y": 768
+        },
+        "1": {
+          "X": 384,
+          "Y": 768
+        },
+        "2": {
+          "X": 768,
+          "Y": 768
+        },
+        "3": {
+          "X": 1152,
+          "Y": 768
+        }
+      },
+      "Skills": {
+        "0": "Flame",
+        "5": "Physical",
+        "10": "Weaken",
+        "15": "FireBall",
+        "20": "Sharpen",
+        "25": "Flame",
+        "30": "Weaken"
+      }
+    }
+  },
+  "Water": {
+    "AquaVisor": {
+      "Positions": {
+        "0": {
+          "X": 0,
+          "Y": 0
+        },
+        "1": {
+          "X": 384,
+          "Y": 0
+        },
+        "2": {
+          "X": 768,
+          "Y": 0
+        },
+        "3": {
+          "X": 1152,
+          "Y": 0
+        }
+      },
+      "Skills": {
+        "0": "Flame",
+        "5": "Physical",
+        "10": "Weaken",
+        "15": "FireBall",
+        "20": "Sharpen",
+        "25": "Flame",
+        "30": "Weaken"
+      }
+    },
+    "Alligator": {
+      "Positions": {
+        "0": {
+          "X": 0,
+          "Y": 384
+        },
+        "1": {
+          "X": 384,
+          "Y": 384
+        },
+        "2": {
+          "X": 768,
+          "Y": 384
+        },
+        "3": {
+          "X": 1152,
+          "Y": 384
+        }
+      },
+      "Skills": {
+        "0": "Flame",
+        "5": "Physical",
+        "10": "Weaken",
+        "15": "FireBall",
+        "20": "Sharpen",
+        "25": "Flame",
+        "30": "Weaken"
+      }
+    },
+    "AquaFluffy": {
+      "Positions": {
+        "0": {
+          "X": 0,
+          "Y": 768
+        },
+        "1": {
+          "X": 384,
+          "Y": 768
+        },
+        "2": {
+          "X": 768,
+          "Y": 768
+        },
+        "3": {
+          "X": 1152,
+          "Y": 768
+        }
+      },
+      "Skills": {
+        "0": "Flame",
+        "5": "Physical",
+        "10": "Weaken",
+        "15": "FireBall",
+        "20": "Sharpen",
+        "25": "Flame",
+        "30": "Weaken"
+      }
+    }
+  },
+  "Nature": {
+    "GreenWolf": {
+      "Positions": {
+        "0": {
+          "X": 0,
+          "Y": 0
+        },
+        "1": {
+          "X": 384,
+          "Y": 0
+        },
+        "2": {
+          "X": 768,
+          "Y": 0
+        },
+        "3": {
+          "X": 1152,
+          "Y": 0
+        }
+      },
+      "Skills": {
+        "0": "Flame",
+        "5": "Physical",
+        "10": "Weaken",
+        "15": "FireBall",
+        "20": "Sharpen",
+        "25": "Flame",
+        "30": "Weaken"
+      }
+    },
+    "Tiger": {
+      "Positions": {
+        "0": {
+          "X": 0,
+          "Y": 384
+        },
+        "1": {
+          "X": 384,
+          "Y": 384
+        },
+        "2": {
+          "X": 768,
+          "Y": 384
+        },
+        "3": {
+          "X": 1152,
+          "Y": 384
+        }
+      },
+      "Skills": {
+        "0": "Flame",
+        "5": "Physical",
+        "10": "Weaken",
+        "15": "FireBall",
+        "20": "Sharpen",
+        "25": "Flame",
+        "30": "Weaken"
+      }
+    },
+    "GreenBunny": {
+      "Positions": {
+        "0": {
+          "X": 0,
+          "Y": 768
+        },
+        "1": {
+          "X": 384,
+          "Y": 768
+        },
+        "2": {
+          "X": 768,
+          "Y": 768
+        },
+        "3": {
+          "X": 1152,
+          "Y": 768
+        }
+      },
+      "Skills": {
+        "0": "Flame",
+        "5": "Physical",
+        "10": "Weaken",
+        "15": "FireBall",
+        "20": "Sharpen",
+        "25": "Flame",
+        "30": "Weaken"
+      }
+    }
+  },
+  "Wind": {
+    "Aetos": {
+      "Positions": {
+        "0": {
+          "X": 0,
+          "Y": 0
+        },
+        "1": {
+          "X": 384,
+          "Y": 0
+        },
+        "2": {
+          "X": 768,
+          "Y": 0
+        },
+        "3": {
+          "X": 1152,
+          "Y": 0
+        }
+      },
+      "Skills": {
+        "0": "Flame",
+        "5": "Physical",
+        "10": "Weaken",
+        "15": "FireBall",
+        "20": "Sharpen",
+        "25": "Flame",
+        "30": "Weaken"
+      }
+    },
+    "WindUnicorn": {
+      "Positions": {
+        "0": {
+          "X": 0,
+          "Y": 384
+        },
+        "1": {
+          "X": 384,
+          "Y": 384
+        },
+        "2": {
+          "X": 768,
+          "Y": 384
+        },
+        "3": {
+          "X": 1152,
+          "Y": 384
+        }
+      },
+      "Skills": {
+        "0": "Flame",
+        "5": "Physical",
+        "10": "Weaken",
+        "15": "FireBall",
+        "20": "Sharpen",
+        "25": "Flame",
+        "30": "Weaken"
+      }
+    },
+    "Bonobo": {
+      "Positions": {
+        "0": {
+          "X": 0,
+          "Y": 768
+        },
+        "1": {
+          "X": 384,
+          "Y": 768
+        },
+        "2": {
+          "X": 768,
+          "Y": 768
+        },
+        "3": {
+          "X": 1152,
+          "Y": 768
+        }
+      },
+      "Skills": {
+        "0": "Flame",
+        "5": "Physical",
+        "10": "Weaken",
+        "15": "FireBall",
+        "20": "Sharpen",
+        "25": "Flame",
+        "30": "Weaken"
+      }
+    }
+  }
+}

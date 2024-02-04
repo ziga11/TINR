@@ -1,0 +1,21 @@
+﻿version: '3.4'
+
+services:
+  app:
+    image: your-app-image-name
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      - db
+
+  db:
+    image: postgres:latest
+    volumes:
+      - ./data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_DB: Monsters
+      POSTGRES_USER: ziga
+      POSTGRES_PASSWORD: trop11
+    ports:
+      - "5432:5432"

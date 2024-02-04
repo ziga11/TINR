@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/mnt/sdb/Workspaces/C#/WinApp/Content/Songs/Battle.ogg</SourceFile>
+  <SourceTime>2024-01-30T15:10:30+01:00</SourceTime>
+  <DestFile>/mnt/sdb/Workspaces/C#/WinApp/Content/bin/Windows/Content/Songs/Battle.xnb</DestFile>
+  <DestTime>2024-02-02T22:29:54.201025+01:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>/mnt/sdb/Workspaces/C#/WinApp/Content/bin/Windows/Content/Songs/Battle.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

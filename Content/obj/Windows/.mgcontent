@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Workspaces/C#/WinApp/Content/Animations/SkillAnimations.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Backgrounds/BattleBackground.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Backgrounds/GameplayBackground.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Fonts/File.spritefont</File>
+    <File>D:/Workspaces/C#/WinApp/Content/HUD/HUDAtlas.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Mobs/FireMonsters.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Mobs/IconAtlas.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Mobs/NatureMonsters.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Mobs/WaterMonsters.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Mobs/WindMonsters.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Objects/Atlas.png</File>
+    <File>D:/Workspaces/C#/WinApp/Content/Objects/AtlasHovered.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
