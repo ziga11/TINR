@@ -1,2 +1,2 @@
 # TINR
-2D game inspired by the old gmae `Miscrits: World of Creatures`.
+2D game inspired by the old game `Miscrits: World of Creatures`.
