@@ -1,5 +1,5 @@
 # TINR
-A simple 2D game inspired by the old game `Miscrits: World of Creatures` made in C# using the framework MonoGame.
+A simple 2D game, implemented in 1-2 months using C# with the MonoGame framework. Its inspired by the old game `Miscrits: World of Creatures`.
 
 The bin file is also included because it has JSON files which include positions of sprites in the photo atlas.
 
